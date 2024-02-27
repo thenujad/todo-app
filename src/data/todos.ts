@@ -4,17 +4,17 @@ export const dummyData: Todo[] = [
     
     {
         id: 1,
-        title: "Like this video",
+        title: "Do College Assesements",
         completed: false,
     },
     {
         id: 2,
-        title: "Subscribe to Coding in Flow",
+        title: "Go to the ground to play",
         completed: false,
     },
     {
         id: 3,
-        title: "Leave a nice comment",
+        title: "Watch a movie",
         completed: false,
     },
 
