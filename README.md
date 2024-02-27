@@ -47,5 +47,5 @@ A simple Todo application built with React and Tailwind CSS. The app allows user
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome!
 
