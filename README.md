@@ -1,4 +1,3 @@
-```markdown
 # Todo App
 
 A simple Todo application built with React and Tailwind CSS. The app allows users to add, complete, and delete tasks, providing a straightforward way to manage their to-do list.
@@ -50,4 +49,3 @@ A simple Todo application built with React and Tailwind CSS. The app allows user
 
 Contributions are welcome! If you'd like to contribute, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-```
